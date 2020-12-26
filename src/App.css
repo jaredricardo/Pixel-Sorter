@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+  background-color: #647C90;
+}
+
+.ghost-body {
+  height: 100%;
+  width: 100%;
+  background-color: #647C90;
+}
+
+.button-container {
+  padding: 20px;
+}
+
+#sort-options {
+  margin-left: 40px;
+}
+
+.btn {
+  margin: 0px 10px; 
+}
+
+.top-margin {
+  margin-top: 4%;
+  margin-bottom: 10px;
+}
+
+input {
+  width: 200px;
+}
+
+
+button {
+  background-color: #746C70 !important;
+  border: none !important;
+}
+
+button:hover {
+  opacity: 90%;
+}

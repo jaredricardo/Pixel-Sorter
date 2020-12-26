@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Pixel-Sorter/static/css/main.d1a0022f.chunk.css",
+    "main.js": "/Pixel-Sorter/static/js/main.dd8ed36b.chunk.js",
+    "main.js.map": "/Pixel-Sorter/static/js/main.dd8ed36b.chunk.js.map",
+    "runtime-main.js": "/Pixel-Sorter/static/js/runtime-main.9a19b9a8.js",
+    "runtime-main.js.map": "/Pixel-Sorter/static/js/runtime-main.9a19b9a8.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/Pixel-Sorter/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.98b0afd5.chunk.js": "/Pixel-Sorter/static/js/2.98b0afd5.chunk.js",
+    "static/js/2.98b0afd5.chunk.js.map": "/Pixel-Sorter/static/js/2.98b0afd5.chunk.js.map",
+    "static/js/3.0f7f1bb2.chunk.js": "/Pixel-Sorter/static/js/3.0f7f1bb2.chunk.js",
+    "static/js/3.0f7f1bb2.chunk.js.map": "/Pixel-Sorter/static/js/3.0f7f1bb2.chunk.js.map",
+    "index.html": "/Pixel-Sorter/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/Pixel-Sorter/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.d1a0022f.chunk.css.map": "/Pixel-Sorter/static/css/main.d1a0022f.chunk.css.map",
+    "static/js/2.98b0afd5.chunk.js.LICENSE.txt": "/Pixel-Sorter/static/js/2.98b0afd5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a19b9a8.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.98b0afd5.chunk.js",
+    "static/css/main.d1a0022f.chunk.css",
+    "static/js/main.dd8ed36b.chunk.js"
+  ]
+}
